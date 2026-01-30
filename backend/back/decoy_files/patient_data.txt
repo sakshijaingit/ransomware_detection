@@ -1,0 +1,10 @@
+HOSPITAL PATIENT RECORDS
+
+Patient ID: P-88921
+Name: Ananya Verma
+Age: 32
+Blood Group: O+
+Diagnosis: Confidential
+
+Critical system file.
+Unauthorized access is prohibited.

@@ -1,0 +1,9 @@
+UserID: 1001
+Name: Amit Sharma
+Email: amit.sharma@gmail.com
+Phone: +91-9876543210
+
+UserID: 1002
+Name: Neha Verma
+Email: neha.verma@gmail.com
+Phone: +91-9123456780

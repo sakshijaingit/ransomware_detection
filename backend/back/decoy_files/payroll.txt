@@ -1,0 +1,12 @@
+CONFIDENTIAL PAYROLL DATA
+
+Employee ID: 10234
+Name: Rahul Sharma
+Department: Finance
+Salary: ₹65,000
+Account Number: XXXX-XXXX-4567
+
+Do not modify this file.
+ENCRYPTED_DATA
+ENCRYPTED_DATA
+ENCRYPTED_DATA

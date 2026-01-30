@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion]
+"ProgramFilesDir"="C:\\Program Files"
+"SystemRoot"="C:\\Windows"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services]
+"Start"=dword:00000002
+"Type"=dword:00000010
+
+ENCRYPTED_DATA
