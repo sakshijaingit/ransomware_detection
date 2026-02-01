@@ -1,0 +1,52 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #0f172a;
+  color: #e5e7eb;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.card {
+  background: #1e293b;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+}
+
+.safe {
+  border-left: 5px solid #22c55e;
+}
+
+.attack {
+  border-left: 5px solid #ef4444;
+}
+
+.warning {
+  border-left: 5px solid #facc15;
+}
+
+.mitigation {
+  border-left: 5px solid #38bdf8;
+}
+
+.logs {
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+.log {
+  background: #020617;
+  padding: 8px;
+  margin-bottom: 8px;
+  border-radius: 5px;
+  font-size: 14px;
+}
