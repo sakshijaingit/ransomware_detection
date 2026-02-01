@@ -1,0 +1,10 @@
+Employee Salary Records
+
+Employee ID: 1001
+Name: Rahul Sharma
+Salary: ₹85,000
+
+Employee ID: 1002
+Name: Ananya Verma
+Salary: ₹72,000
+

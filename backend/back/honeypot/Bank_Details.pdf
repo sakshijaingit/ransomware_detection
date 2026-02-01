@@ -1,0 +1,35 @@
+BANK ACCOUNT INFORMATION
+
+Account Holder: Sakshi Jain
+Bank Name: Punjab National Bank
+Account Number: 123456789012
+IFSC Code: PUNB0123456
+Branch: GT Road
+
+Status: ACTIVE
+Last Transaction: ₹25,000 (NEFT)
+
+BANK TRANSACTION LOGS
+=====================
+
+TXN_ID     | DATE       | TYPE | AMOUNT | STATUS | REMARK
+-----------------------------------------------------------
+TXN10001  | 12-01-2025 | NEFT | 25000  | SUCCESS | Salary Credit
+TXN10002  | 14-01-2025 | UPI  | 1500   | SUCCESS | Grocery Store
+TXN10003  | 18-01-2025 | ATM  | 10000  | SUCCESS | Cash Withdrawal
+TXN10004  | 25-01-2025 | IMPS | 45000  | SUCCESS | Rent Payment
+TXN10005  | 02-02-2025 | UPI  | 2300   | FAILED  | Network Error
+TXN10006  | 05-02-2025 | NEFT | 60000  | SUCCESS | Insurance Premium
+TXN10007  | 10-02-2025 | RTGS | 125000 | SUCCESS | Car Loan EMI
+TXN10008  | 18-02-2025 | ATM  | 20000  | SUCCESS | Cash Withdrawal
+TXN10
+ENCRYPTED_DATA
+ENCRYPTED_DATA
+ENCRYPTED_DATA
+ENCRYPTED_DATA
+ENCRYPTED_DATA
+ENCRYPTED_DATA
+ENCRYPTED_DATA
+ENCRYPTED_DATA
+ENCRYPTED_DATA
+ENCRYPTED_DATA

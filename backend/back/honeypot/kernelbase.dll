@@ -1,0 +1,36 @@
+MZ�▒This program cannot be run in DOS mode.
+PE▒▒
+.text
+.rdata
+.data
+.reloc
+
+Microsoft Windows Operating System
+Kernel Base Library
+Copyright (C) Microsoft Corporation
+
+FileVersion     10.0.19041.1
+ProductVersion  10.0.19041.1
+InternalName    KERNELBASE.DLL
+OriginalFilename KERNELBASE.DLL
+ProductName     Microsoft® Windows® Operating System
+
+LoadLibraryA
+LoadLibraryW
+GetProcAddress
+FreeLibrary
+CreateFileW
+ReadFile
+WriteFile
+CloseHandle
+VirtualAlloc
+VirtualFree
+GetLastError
+SetLastError
+
+This is a decoy system library.
+Unauthorized modification detected.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+ENCRYPTED_DATA
+ENCRYPTED_DATA
+ENCRYPTED_DATA

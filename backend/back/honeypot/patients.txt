@@ -1,0 +1,14 @@
+Hospital Patient Records
+
+Patient ID: P001
+Name: Suresh Kumar
+Diagnosis: Diabetes
+Room: 302
+
+Patient ID: P002
+Name: Meena Joshi
+Diagnosis: Hypertension
+Room: 210
+
+ENCRYPTED_DATA
+ENCRYPTED_DATA
